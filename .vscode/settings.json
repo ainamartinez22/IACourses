@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\Aina Martinez\\Anaconda3\\envs\\ia_courses\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.mypyEnabled": true,
+
+}
