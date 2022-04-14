@@ -21,3 +21,12 @@ Outliers afecten a:
 - Regressions
 
 Els metodes robustos s'utilitzen quan les dades presenten aprox un distribució normal amb alguns outliers, si no és així, si són dades més sesgades o amb una altra distribució, no s'han d'utilitzar.
+
+# STANDARD DEVIATION AND VARIANCE
+
+Les desviacions estandard ($\sigma$) s'utilitzen com a mesures per trobar els outliers en les distribucions de punts. Els valors a un màxim d'una desviació estandard de la mitjana es consideren valors típics, més enllà són valors atípics (outliers).
+
+# PROBABILITY MASS FUNCTION AND DENSITY FUNCTION
+
+Mass function --> si tenim dades discretes no contínues (histograma)
+Density/probability function --> si tenim dades contínues (corva)
