@@ -30,3 +30,25 @@ Les desviacions estandard ($\sigma$) s'utilitzen com a mesures per trobar els ou
 
 Mass function --> si tenim dades discretes no contínues (histograma)
 Density/probability function --> si tenim dades contínues (corva)
+
+# COMMON DATA DISTRIBUTIONS
+
+## UNIFORME
+
+Tots els valors dins d'un rang tenen una probabilitat constant (uniforme) d'assolir-se
+--> la funció de densitat és una línia constant a 1 en aquest rang de valors
+
+## NORMAL/GAUSSIANA
+
+
+## EXPONENCIAL
+
+pdf = probability density function
+
+## BINOMIAL
+
+dades discretes
+
+## POISSON
+
+si tens la mitjana d'esdeveniments que passen en un període de temps
