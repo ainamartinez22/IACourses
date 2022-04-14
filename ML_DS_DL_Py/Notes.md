@@ -52,3 +52,16 @@ dades discretes
 ## POISSON
 
 si tens la mitjana d'esdeveniments que passen en un període de temps
+
+# PERCENTILES
+
+S'ordenen les dades --> quin és el percentatge menor a un valor?
+Percentil 50 = mitjana
+
+# MOMENTS
+
+Mesures de la forma de la funció de densitat (no depenent d'on estan els valors assolits)
+1r moment = mitjana
+2n moment = variancia
+3r moment = biaix (skew) --> si la corba te la cua desplaçada cap algun costat
+4t moment = curtosis --> l'amplada del pic de la corva
